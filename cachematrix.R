@@ -26,14 +26,14 @@ chacehSolve <- function(x, ...) {
   inv
 }
 ## Write a short comment describing this function
-
+## This is for making the matrix
 makeCacheMatrix <- function(x = matrix()) {
 
 }
-## This is for making the matrix
+
 
 ## Write a short comment describing this function
-
+## Used to get the cached data
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
 }
